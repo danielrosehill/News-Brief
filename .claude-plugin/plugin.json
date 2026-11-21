@@ -1,0 +1,9 @@
+{
+  "name": "news-brief",
+  "version": "1.0.0",
+  "description": "News briefs from a whitelist of RSS sources: 24-hour Daily Brief, recency-first Breaking News Brief and a conventional SITREP. Ships the Israel Breaking source package.",
+  "author": {"name": "Daniel Rosehill", "url": "https://github.com/danielrosehill"},
+  "repository": "https://github.com/danielrosehill/News-Brief",
+  "license": "MIT",
+  "keywords": ["news", "rss", "daily-brief", "breaking-news", "sitrep", "israel", "voice-assistant"]
+}

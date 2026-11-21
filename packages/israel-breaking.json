@@ -1,0 +1,86 @@
+{
+  "id": "israel-breaking",
+  "name": "Israel Breaking",
+  "description": "Israel and the Middle East as covered by Israeli English-language outlets, with a regional and world layer for outside perspective.",
+  "geography": "Israel",
+  "language": "en",
+  "timezone": "Asia/Jerusalem",
+  "verified": "2026-11-21",
+  "sources": [
+    {
+      "id": "toi",
+      "name": "Times of Israel",
+      "tier": 1,
+      "url": "https://www.timesofisrael.com/feed/"
+    },
+    {
+      "id": "toi-region",
+      "name": "Times of Israel: Israel & the Region",
+      "tier": 1,
+      "url": "https://www.timesofisrael.com/israel-and-the-region/feed/"
+    },
+    {
+      "id": "jpost",
+      "name": "Jerusalem Post (front page)",
+      "tier": 1,
+      "url": "https://www.jpost.com/rss/rssfeedsfrontpage.aspx",
+      "feed_clock_tz": "Asia/Jerusalem"
+    },
+    {
+      "id": "jpost-israel",
+      "name": "Jerusalem Post: Israel News",
+      "tier": 1,
+      "url": "https://www.jpost.com/rss/rssfeedsisraelnews.aspx",
+      "feed_clock_tz": "Asia/Jerusalem"
+    },
+    {
+      "id": "jns",
+      "name": "JNS (Jewish News Syndicate)",
+      "tier": 1,
+      "url": "https://www.jns.org/feed/"
+    },
+    {
+      "id": "israel-hayom",
+      "name": "Israel Hayom (English)",
+      "tier": 1,
+      "url": "https://www.israelhayom.com/feed/"
+    },
+    {
+      "id": "haaretz",
+      "name": "Haaretz (English)",
+      "tier": 1,
+      "url": "https://www.haaretz.com/srv/haaretz-latest-headlines"
+    },
+    {
+      "id": "inn",
+      "name": "Arutz Sheva / Israel National News",
+      "tier": 1,
+      "url": "https://www.israelnationalnews.com/Rss.aspx"
+    },
+    {
+      "id": "jpost-mideast",
+      "name": "Jerusalem Post: Middle East",
+      "tier": 2,
+      "url": "https://www.jpost.com/rss/rssfeedsmiddleeastnews.aspx",
+      "feed_clock_tz": "Asia/Jerusalem"
+    },
+    {
+      "id": "al-monitor",
+      "name": "Al-Monitor",
+      "tier": 2,
+      "url": "https://www.al-monitor.com/rss"
+    },
+    {
+      "id": "bbc-mideast",
+      "name": "BBC News: Middle East",
+      "tier": 3,
+      "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml"
+    },
+    {
+      "id": "guardian-israel",
+      "name": "The Guardian: Israel",
+      "tier": 3,
+      "url": "https://www.theguardian.com/world/israel/rss"
+    }
+  ]
+}
