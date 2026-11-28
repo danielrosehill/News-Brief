@@ -1,9 +1,9 @@
 {
   "name": "news-brief",
-  "version": "1.0.0",
-  "description": "News briefs from a whitelist of RSS sources: 24-hour Daily Brief, recency-first Breaking News Brief and a conventional SITREP. Ships the Israel Breaking source package.",
+  "version": "1.1.0",
+  "description": "On-demand news monitoring: daily, breaking and SITREP briefs from whitelisted RSS packages; topic scans over a day, week or month; translated press reviews of foreign-language media; OSINT briefs with Telegram, X and official statements. PDF, email and Drive via report-writing.",
   "author": {"name": "Daniel Rosehill", "url": "https://github.com/danielrosehill"},
   "repository": "https://github.com/danielrosehill/News-Brief",
   "license": "MIT",
-  "keywords": ["news", "rss", "daily-brief", "breaking-news", "sitrep", "israel", "voice-assistant"]
+  "keywords": ["news-monitoring", "press-review", "translation", "osint", "telegram", "google-news", "news", "rss", "daily-brief", "breaking-news", "sitrep", "israel", "voice-assistant"]
 }

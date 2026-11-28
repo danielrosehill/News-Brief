@@ -1,0 +1,23 @@
+{
+  "id": "jns-toi",
+  "name": "Times of Israel + JNS",
+  "description": "Two English-language Israeli outlets for a light daily update: the Times of Israel main feed and JNS.",
+  "geography": "Israel",
+  "language": "en",
+  "timezone": "Asia/Jerusalem",
+  "verified": "2026-11-28",
+  "sources": [
+    {
+      "id": "toi",
+      "name": "Times of Israel",
+      "tier": 1,
+      "url": "https://www.timesofisrael.com/feed/"
+    },
+    {
+      "id": "jns",
+      "name": "JNS (Jewish News Syndicate)",
+      "tier": 1,
+      "url": "https://www.jns.org/feed/"
+    }
+  ]
+}

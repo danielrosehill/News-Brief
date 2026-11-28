@@ -1,0 +1,87 @@
+{
+ "series": "Press review: Hebrew media",
+ "title": "Mahane Yehuda: City vs. Bar Owners",
+ "date": "28 November 2026",
+ "headline": "No new Hebrew coverage in the past week; the last burst was the city's 12 November appeal to the Supreme Court",
+ "bottom_line_label": "Bottom line",
+ "bottom_line": [
+  "**Nothing new in the 7-day window** (21-28 November 2026): five Hebrew Google News queries and two Exa searches found no article on the dispute. This review widens to 30 days and covers the last news cycle, 12-13 November.",
+  "**It is an appeal, not a new lawsuit.** On 12 November the Jerusalem Municipality appealed to the Supreme Court against the July 2026 District Court ruling won by eight bar owners, which cancelled its enforcement procedure in the market and barred it from confiscating loudspeakers.",
+  "**One press release drove most of the coverage.** Six of nine outlets restate the city's statement almost word for word. Only Mynet Jerusalem added original reporting (letters from merchants and residents), and only Channel 14 framed the appeal critically.",
+  "**No outlet carried the bar owners' response.** No hearing date has been published; the District Court ruling stands until the Supreme Court decides."
+ ],
+ "sections": [
+  {"title": "How coverage differs", "blocks": [
+   {"kind": "bullets", "items": [
+    "**Municipal line, near verbatim:** Kol Ha'ir, Kipa, Babli, News08, Emess and Yerushalmim share the release's phrases (\"a permit to use public space is not an unlimited right\", \"we do not seek to harm the merchants' livelihoods\").",
+    "**Original reporting:** Mynet Jerusalem (Ynet's local site) had the story first and added the merchants' committee letter and an 11 November residents' complaint about bass that shakes windows. Hayerushalmim's explainer credits Mynet as its source.",
+    "**Critical of the mayor:** Channel 14 (C14) led with \"Moshe Lion tries to turn the lights out\" and recalled the July ruling's finding that enforcement was \"aggressive, excessive and sometimes arbitrary\".",
+    "**Detail only one outlet ran:** Kol Ha'ir noted the District Court relied partly on the city's own earlier argument, in waste-collection cases, that the market is a commercial area.",
+    "**Haredi outlets** (Kikar HaShabbat, Emess) ran short neutral items. None revisited the haredi-pressure angle that Ynet and Channel 13 raised when the bar owners won in July."
+   ]}
+  ]},
+  {"title": "Articles", "page_break": false, "blocks": [
+   {"kind": "entries", "items": [
+    {"tag": "12 Nov 2026 13:19 | Mynet Jerusalem", "title": "First report: Jerusalem Municipality goes to war on noise in Mahane Yehuda",
+     "original": "פרסום ראשון: עיריית ירושלים יוצאת למלחמה ברעש במחנה יהודה",
+     "link": "https://jerusalem.mynet.co.il/local_news/article/bjrckxqcfl",
+     "bullets": ["The city filed its Supreme Court appeal that morning against the District Court ruling that cancelled its enforcement procedure and its power to confiscate amplifiers.",
+      "The key question is whether the market counts as a **residential area** for the noise bylaw.",
+      "The merchants' committee, chaired by chef Tali Friedman, wrote to the city that loud sound systems hurt trade and workers' health, especially on Fridays; it cites a student tour on 14 October that could not continue over the music.",
+      "Residents' letter of 11 November: bass shakes their windows even when closed; they ask for night-time noise measurements and standing enforcement."]},
+    {"tag": "12 Nov 2026 14:19 | Kol Ha'ir Jerusalem", "title": "The battle over the volume reaches the Supreme Court: the city fights to regain the power to confiscate loudspeakers",
+     "original": "הקרב על הווליום בשוק עולה לעליון: העירייה נאבקת להחזיר את הסמכות להחרים רמקולים",
+     "link": "https://www.kolhair.co.il/jerusalem-news/272451/",
+     "bullets": ["The appeal seeks two rulings: that the market is residential for the noise bylaw, and that the city may confiscate amplification equipment where the law allows.",
+      "The District Court's finding rested partly on the city's own earlier claim, in waste-collection cases, that the market is a **commercial area**.",
+      "City: a permit to use public space \"is not an unlimited right\"; it respects the ruling and will not use confiscation sweepingly."]},
+    {"tag": "12 Nov 2026 | Channel 14 (C14)", "title": "What did the residents do? Moshe Lion tries to turn the lights out on the Machneyuda market",
+     "original": "מה עשו התושבים? משה ליאון מנסה לכבות את האור על שוק מחניודה",
+     "link": "https://www.c14.co.il/article/1785995",
+     "bullets": ["Frames the appeal as the mayor's continuing fight against music in one of the city's main nightlife hubs.",
+      "Recalls the bar owners' earlier strike and protest signs, and the July ruling for eight bar owners that called enforcement \"aggressive, excessive and sometimes arbitrary\".",
+      "Asks how the city can promote the market as a nightlife and tourism hub while seeking wider powers to curb it."]},
+    {"tag": "12 Nov 2026 13:55 | Kikar HaShabbat", "title": "After the dramatic District Court ruling, the war over Mahane Yehuda reaches the Supreme Court",
+     "original": "אחרי הפסק הדרמטי במחוזי - המלחמה על 'מחנה יהודה' מגיעה לעליון",
+     "link": "https://www.kikar.co.il/scoop-news/91634",
+     "bullets": ["Short news item: the city asks the Supreme Court to revisit the finding that the market is not residential and the ban on confiscating loudspeakers.",
+      "Headline and standfirst read; the page served no further body text to the fetcher."]},
+    {"tag": "12 Nov 2026 15:00 | Kipa", "title": "Jerusalem Municipality goes into battle: \"Mahane Yehuda market in danger\"",
+     "original": "עיריית ירושלים יוצאת למאבק: \"שוק מחנה יהודה בסכנה\"",
+     "link": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1236196-0/",
+     "bullets": ["Restates the city's case: the market is also home to residents entitled to quiet; the city wants legal tools, \"not unlimited powers\".",
+      "The quoted \"in danger\" in the headline is not attributed to anyone in the body."]},
+    {"tag": "12 Nov 2026 | Babli", "title": "Jerusalem Municipality appeals to the High Court over Mahane Yehuda market ruling",
+     "original": "עיריית ירושלים מערערת לבג\"ץ על פסק דין בשוק מחנה יהודה",
+     "link": "https://www.babli.co.il/law/toe2sf",
+     "bullets": ["Restates the release. The headline says the High Court of Justice (Bagatz); the other outlets describe an ordinary appeal to the Supreme Court against an administrative-court ruling."]},
+    {"tag": "12 Nov 2026 14:19 | News08", "title": "The fight over Mahane Yehuda's nightlife reaches the Supreme Court: the city appeals its defeat",
+     "original": "המאבק על חיי הלילה במחנה יהודה מגיע לעליון: עיריית ירושלים מערערת על הפסדה",
+     "link": "https://www.news08.net/%D7%94%D7%9E%D7%90%D7%91%D7%A7-%D7%A2%D7%9C-%D7%97%D7%99%D7%99-%D7%94%D7%9C%D7%99%D7%9C%D7%94-%D7%91%D7%9E%D7%97%D7%A0%D7%94-%D7%99%D7%94%D7%95%D7%93%D7%94-%D7%9E%D7%92%D7%99%D7%A2-%D7%9C%D7%A2%D7%9C/",
+     "bullets": ["Stresses that filing an appeal changes nothing yet: the District Court ruling binds the city until the Supreme Court rules.",
+      "Calls the July ruling a significant win for the bar owners that set limits on enforcement without exempting them from the law."]},
+    {"tag": "12 Nov 2026 11:19 | Hayerushalmim", "title": "Mahane Yehuda noise reaches the Supreme Court: the city appealed the cancellation of its enforcement procedure",
+     "original": "הרעש במחנה יהודה מגיע לעליון: העירייה ערערה על ביטול נוהל האכיפה",
+     "link": "https://hayerushalmim.co.il/article/mahane-yehuda-noise-municipality-supreme-court-appeal/",
+     "bullets": ["Explainer built on Mynet Jerusalem's report, which it credits.",
+      "No hearing date has been set; the bar owners' response did not appear in the reporting."]},
+    {"tag": "13 Nov 2026 | Emess", "title": "Mahane Yehuda market: Jerusalem Municipality appeals to the Supreme Court over enforcement powers",
+     "original": "שוק מחנה יהודה: עיריית ירושלים מערערת לעליון על סמכויות האכיפה",
+     "link": "https://www.emess.co.il/radio/1961591",
+     "bullets": ["Neutral restatement for a haredi readership: the city wants a ruling in principle on local authorities' enforcement powers, and will follow the District Court ruling until then."]}
+   ]}
+  ]},
+  {"title": "Method", "blocks": [
+   {"kind": "facts", "rows": [
+    ["Request", "Hebrew media on the Jerusalem Municipality vs. Mahane Yehuda bar owners, past 7 days"],
+    ["Window", "21-28 Nov 2026: no coverage found. Widened to 30 days (29 Oct-28 Nov)."],
+    ["Searched", "Google News RSS, Hebrew edition (news_search.py, 5 queries at 7 days, 2 at 30 days); Exa (2 searches); WebSearch (1 search, English)"],
+    ["Not included", "Yerushalmim (yerushalmim.co.il), which restates the release: the page did not load from either test network on 28 Nov. English pickup: JFeed, 12 Nov."],
+    ["Links", "All nine links returned HTTP 200 on 28 Nov 2026"],
+    ["Translation", "Headlines and points translated from Hebrew by the agent; quotes are translations, not the outlets' English"]
+   ]}
+  ]}
+ ],
+ "footer": "Press review | news-brief:press-review",
+ "note": "Context: on 21 July 2026 the Jerusalem District Court (Judge Tamar Bar-Asher) upheld the petition of eight Mahane Yehuda bar owners, cancelled the municipal enforcement procedure, ruled that the market is not a residential area for noise enforcement and awarded the petitioners 32,000 shekels in costs (Ynet, Channel 13, 21 July 2026)."
+}
